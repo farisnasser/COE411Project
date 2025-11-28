@@ -1,0 +1,12 @@
+../Core/Src/main.c:69:6:Servo_SetAngle	3
+../Core/Src/main.c:76:6:Door_Lock	1
+../Core/Src/main.c:82:6:Door_Unlock	1
+../Core/Src/main.c:97:6:send_event	1
+../Core/Src/main.c:103:20:buzzer_set_freq	3
+../Core/Src/main.c:114:20:buzzer_off	1
+../Core/Src/main.c:118:13:play_tone	1
+../Core/Src/main.c:125:6:chime_ok	1
+../Core/Src/main.c:131:6:chime_error	1
+../Core/Src/main.c:141:5:main	1
+../Core/Src/main.c:205:6:SystemClock_Config	4
+../Core/Src/main.c:258:6:Error_Handler	1

@@ -1,0 +1,4 @@
+../Core/Src/pir.c:10:6:PIR_Init	1
+../Core/Src/pir.c:17:6:HAL_GPIO_EXTI_Callback	3
+../Core/Src/pir.c:31:6:PIR_TakeEvent	2
+../Core/Src/pir.c:41:10:PIR_LastTick	1

@@ -1,0 +1,5 @@
+../Core/Src/rfid.c:21:6:RFID_Init_IT	8	static
+../Core/Src/rfid.c:34:6:HAL_UART_RxCpltCallback	24	static
+../Core/Src/rfid.c:77:9:RFID_CheckTag	16	static
+../Core/Src/rfid.c:98:9:RFID_ReadTag	24	static
+../Core/Src/rfid.c:108:6:RFID_Init	16	static

@@ -1,0 +1,5 @@
+../Core/Src/freertos.c:84:6:MX_FREERTOS_Init	1
+../Core/Src/freertos.c:105:6:StartAccessTask	1
+../Core/Src/freertos.c:140:6:StartRfidTask	5
+../Core/Src/freertos.c:188:6:StartKeypadTask	13
+../Core/Src/freertos.c:327:6:StartRemoteTask	8
